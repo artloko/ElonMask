@@ -13,3 +13,6 @@
 На сайте организована удобная навигация в виде меню. На главную страницу можно вернуться, кликнув по имени изобретателя в шапке сайта. 
 
 ![factspage](https://user-images.githubusercontent.com/33527616/46227084-c55bac00-c366-11e8-9a4d-04660c6b41fc.jpg)
+
+![secretspage](https://user-images.githubusercontent.com/33527616/46227191-18356380-c367-11e8-82f7-b6ab0dd4919d.jpg)
+
